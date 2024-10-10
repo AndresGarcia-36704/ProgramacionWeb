@@ -1,0 +1,38 @@
+{
+  "name": "api_user_web2_2024-2",
+  "version": "0.0.1",
+  "description": "API rest para Usuarios",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresGarcia-36704/ProgramacionWeb.git"
+  },
+  "keywords": [
+    "API",
+    "Node",
+    "Express",
+    "JSON",
+    "Nodemon",
+    "fs"
+  ],
+  "author": "Andres F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresGarcia-36704/ProgramacionWeb/issues"
+  },
+  "homepage": "https://github.com/AndresGarcia-36704/ProgramacionWeb#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "nodemailer": "^6.9.15"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
