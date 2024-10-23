@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Definir el archivo de usuarios
-const usersFilePath = path.join(path.resolve(), 'utils/data/Usuarios.json');
+const usersFilePath = path.join(path.resolve(), 'src/utils/data/Usuarios.json');
 
 // Leer usuarios desde el archivo
 export const readUsers = () => {
