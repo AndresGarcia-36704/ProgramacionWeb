@@ -2,15 +2,27 @@
   {
     "id": 1,
     "code": "12345",
-    "name": "Jhon Marquez",
+    "name": "Nuevo Nombre",
     "age": 25,
-    "email": "jhon.marquez@Users.com"
+    "email": "jhon.Zuluaga@Users.com",
+    "updated_at": "21:28 23-10-2024"
   },
   {
     "id": 2,
     "code": "23456",
-    "name": "María García",
+    "name": "Nuevo Nombre",
     "age": 30,
-    "email": "maria.garcia@Users.com"
+    "email": "maria.garcia@Users.com",
+    "updated_at": "21:28 23-10-2024"
+  },
+  {
+    "code": "35567",
+    "name": "Nuevo Nombre",
+    "age": 27,
+    "email": "Jhoan.lopez@Users.com",
+    "ip": "::1",
+    "created_at": "20:42 23-10-2024",
+    "id": 3,
+    "updated_at": "21:28 23-10-2024"
   }
 ]

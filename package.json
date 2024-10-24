@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/AndresGarcia-36704/ProgramacionWeb#readme",
   "dependencies": {
+    "dayjs": "^1.11.13",
     "express": "^4.21.1",
     "joi": "^17.13.3",
     "nodemailer": "^6.9.15"
